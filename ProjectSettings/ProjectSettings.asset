@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ccb19effa0c0a0841977ef8218a05d7b
+  productGUID: 68b106b243f539b4b845ba0b1c6b775b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project (3)
+  productName: IMDM 101 LEVEL 2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project (3)
+  metroPackageName: IMDM 101 LEVEL 2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project (3)
+  metroApplicationDescription: IMDM 101 LEVEL 2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,11 +754,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: be20faa7-3e73-4839-98a6-4183c2cf5440
+  cloudProjectId: 25590ecf-b542-4172-94fb-c3127861f843
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (3) 2024-10-17_12-29-17
-  organizationId: julihim
+  projectName: IMDM 101 LEVEL 2
+  organizationId: jforste3
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

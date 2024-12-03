@@ -4,12 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Collectable
   - PickUp
   - Enemy
-  - Dynamic Object
-  - DynamicObject
-  - Enemy(drone)
-  - Enemy2
   layers:
   - Default
   - TransparentFX
